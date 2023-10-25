@@ -1,0 +1,9 @@
+com\renderMovies\MovieAPI\ReviewController.class
+com\renderMovies\MovieAPI\MovieApiApplication.class
+com\renderMovies\MovieAPI\ReviewService.class
+com\renderMovies\MovieAPI\Movie.class
+com\renderMovies\MovieAPI\MovieController.class
+com\renderMovies\MovieAPI\MovieRepository.class
+com\renderMovies\MovieAPI\MovieService.class
+com\renderMovies\MovieAPI\Review.class
+com\renderMovies\MovieAPI\ReviewRepository.class
